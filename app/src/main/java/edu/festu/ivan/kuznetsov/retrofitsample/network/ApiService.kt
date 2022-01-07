@@ -1,4 +1,4 @@
-package edu.festu.yulia.ponomarchuk.retrofitsample.network
+package edu.festu.ivan.kuznetsov.retrofitsample.network
 
 import retrofit2.Call
 import retrofit2.http.GET

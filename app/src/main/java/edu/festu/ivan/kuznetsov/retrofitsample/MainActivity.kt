@@ -1,13 +1,13 @@
-package edu.festu.yulia.ponomarchuk.retrofitsample
+package edu.festu.ivan.kuznetsov.retrofitsample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import androidx.recyclerview.widget.LinearLayoutManager
-import edu.festu.yulia.ponomarchuk.retrofitsample.databinding.ActivityMainBinding
-import edu.festu.yulia.ponomarchuk.retrofitsample.network.ApiService
-import edu.festu.yulia.ponomarchuk.retrofitsample.network.NetworkSingleton
-import edu.festu.yulia.ponomarchuk.retrofitsample.network.SearchRequest
+import edu.festu.ivan.kuznetsov.retrofitsample.databinding.ActivityMainBinding
+import edu.festu.ivan.kuznetsov.retrofitsample.network.ApiService
+import edu.festu.ivan.kuznetsov.retrofitsample.network.NetworkSingleton
+import edu.festu.ivan.kuznetsov.retrofitsample.network.SearchRequest
 import retrofit2.Call
 import retrofit2.Response
 import javax.security.auth.callback.Callback

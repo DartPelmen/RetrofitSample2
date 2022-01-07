@@ -1,4 +1,4 @@
-package edu.festu.yulia.ponomarchuk.retrofitsample.network
+package edu.festu.ivan.kuznetsov.retrofitsample.network
 
 data class InfoModel(var id: String,
                     var resultType: String,

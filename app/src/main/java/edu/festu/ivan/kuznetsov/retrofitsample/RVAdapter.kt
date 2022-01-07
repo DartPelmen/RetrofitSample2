@@ -1,10 +1,10 @@
-package edu.festu.yulia.ponomarchuk.retrofitsample
+package edu.festu.ivan.kuznetsov.retrofitsample
 
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
-import edu.festu.yulia.ponomarchuk.retrofitsample.databinding.ItemBinding
-import edu.festu.yulia.ponomarchuk.retrofitsample.network.InfoModel
+import edu.festu.ivan.kuznetsov.retrofitsample.databinding.ItemBinding
+import edu.festu.ivan.kuznetsov.retrofitsample.network.InfoModel
 
 class RVAdapter : RecyclerView.Adapter<RVAdapter.ViewHolder>() {
 

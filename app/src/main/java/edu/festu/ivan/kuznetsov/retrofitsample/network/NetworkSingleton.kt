@@ -1,4 +1,4 @@
-package edu.festu.yulia.ponomarchuk.retrofitsample.network
+package edu.festu.ivan.kuznetsov.retrofitsample.network
 
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
