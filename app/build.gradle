@@ -7,7 +7,7 @@ android {
     compileSdk 31
 
     defaultConfig {
-        applicationId "edu.festu.yulia.ponomarchuk.retrofitsample"
+        applicationId "edu.festu.ivan.kuznetsov.retrofitsample"
         minSdk 29
         targetSdk 31
         versionCode 1
